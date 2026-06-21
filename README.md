@@ -29,6 +29,13 @@
 ## Screenshots
 
 ![Compress PDF](screenshots/compress.png)
+![Encrypt PDF](screenshots/encrypt.png)
+![Merge PDF](screenshots/merge.png)
+![Moblie PDF](screenshots/mob.png)
+![Split PDF](screenshots/split.png)
+![Extract PDF](screenshots/extract.png)
+![Markdown To PDF](screenshots/mardown.png)
+![PDF To Images ](screenshots/pdftoimages.png)
 
 ## Tech Stack
 
